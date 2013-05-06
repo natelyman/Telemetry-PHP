@@ -1,19 +1,14 @@
 <?php
 namespace Telemetry\DataFlows;
+require_once("timeline.message.php");
 
 class Timeline {
 	public $messages = array();
 
-	public function addMessage(Message $message) {
+	public function addMessage(Timeline\Message $message) {
 		$this->messages[] = $message;
 	}
 }
 
-class Message {
-	public $timestamp;
-	public $from;
-	public $icon_url;
-	public $text;
-}
 
 ?>
