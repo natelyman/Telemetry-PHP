@@ -1,5 +1,5 @@
 <h1>Telemetry-PHP</h1>
-<p>Telemetry-PHP is a library used to interact with the <a href="https://www.telemetryapp.com/">Telemetry App (https://www.telemetryapp.com/)</aH Dashboard Suite.  As of 5/5/13, this library supports all Data Flows.
+<p>Telemetry-PHP is a library used to interact with the <a href="https://www.telemetryapp.com/">Telemetry App (https://www.telemetryapp.com/)</a> Dashboard Suite.  As of 5/5/13, this library supports all Data Flows.
 
 The library is pretty self-explanatory.  For more details on using the Telemetry API go to their <a href="https://www.telemetryapp.com/documentation/intro-to-telemetry/">Documentation (https://www.telemetryapp.com/documentation/intro-to-telemetry/)</a></p>
 <h2>To instantiate Telemetry-PHP, pass in your API token.</h2>
