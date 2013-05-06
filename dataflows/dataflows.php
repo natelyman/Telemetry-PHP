@@ -12,6 +12,7 @@ require_once("table.php");
 require_once("text.php");
 require_once("tickertape.php");
 require_once("timeline.php");
+require_once("timeseries.php");
 require_once("value.php");
 
 ?>
