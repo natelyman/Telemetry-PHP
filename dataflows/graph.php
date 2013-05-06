@@ -18,5 +18,6 @@ class Series {
 	public $values = array();
 	public $color = "#FF0000";
 	public $x_labels = array();
+	public $label;
 }
 ?>
