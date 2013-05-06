@@ -9,6 +9,8 @@ require_once("log.php");
 require_once("multigauge.php");
 require_once("servers.php");
 require_once("table.php");
+require_once("text.php");
+require_once("tickertape.php");
 require_once("timeline.php");
 require_once("value.php");
 
