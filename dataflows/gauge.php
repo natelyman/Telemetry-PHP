@@ -1,7 +1,7 @@
 <?php
 namespace Telemetry\DataFlows;
 
-class Guage {
+class Gauge {
 	public $value;
 	public $value_color = "#00FF00";
 	public $max;
