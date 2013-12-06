@@ -7,6 +7,7 @@ class Graph {
 	public $min_scale;
 	public $unstack;
 	public $stoke;
+	public $title;
 
 	function addSeries(Series $s) {
 		$this->series[] = $s;
